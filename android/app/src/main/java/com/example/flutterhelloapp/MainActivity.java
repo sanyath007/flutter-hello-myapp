@@ -1,4 +1,4 @@
-package com.example.laudryservice;
+package com.example.flutterhelloapp;
 
 import android.os.Bundle;
 import io.flutter.app.FlutterActivity;
